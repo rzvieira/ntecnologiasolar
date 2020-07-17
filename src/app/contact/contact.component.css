@@ -1,0 +1,39 @@
+.homebanner .homebtn{background: darkgreen; color: #FFF; font-weight: bold; padding: 11px 19px; border-radius:3px;}
+
+.homeabout{max-width:1140px; margin:80px auto 0 auto;}
+.homeabout h1{color: brown; margin:10px 0 30px 0;}
+.homeabout p,.newshome b{text-shadow: 1px 1px 2px #CCC; color:#222222; font-size: 20px;}
+.homeabout img{width: 100%; height: 460px; background: #CCC;}
+.homeabout .homebtn{background: darkgreen; color: #FFF; font-weight: bold; padding: 11px 19px; border-radius:3px;}
+.homeabout .formhome{background: #f2f2f2; padding: 50px;}
+.homeabout .formhome input{margin-bottom:10px; background: #FFF; font-size: 16px; padding: 1.0em 0.90em;}
+.homeabout .formhome h3{color: #222222; font-weight: bold;}
+
+.hometips{max-width:1140px; margin:120px auto 0 auto;}
+.hometips h1{color: brown; margin:0px 0 60px 0; text-align: center;}
+.hometips span{text-shadow: 1px 1px 2px #CCC; color:#222222; font-size: 18px;}
+.hometips p{width:100%; padding:3px 0; text-shadow: 1px 1px 2px #CCC; color:#222222; font-size: 21px; font-weight: 600;}
+.hometips img{width: 100px; height: 100px; border-radius: 50px; background: #CCC; margin-bottom: 20px;}
+.hometips .homebtn{background: darkgreen; color: #FFF; font-weight: bold; padding: 11px 19px; border-radius:3px;}
+
+.homedaynight{width: 100%; margin: 120px auto 0 auto; color: #222222;}
+.homedaynight h1{color: brown; margin:0px 0 70px 0; text-align: center;}
+.homedaynight .homeday{background: #f6f174; padding:70px 40px;}
+.homedaynight .homenight{background: #2e446a; padding:70px 40px;}
+.homedaynight b{font-size: 42px;}
+.homedaynight .homeday p{text-align: right; font-size:22px; color: #222222; padding-left: 120px;}
+.homedaynight .homenight p{text-align: left; font-size: 22px; color: #FFF; padding-right: 120px;}
+
+.homenews{max-width:1140px; margin:80px auto 0 auto;}
+.homenews img{width: 100%; height: 200px; background: #CCC;}
+.homenews span{text-shadow: 1px 1px 2px #CCC; color:#222222; font-size: 24px;}
+.homenews p{padding:10px 0 6px 0; color:#222222; font-weight: 600; font-size: 22px; text-transform: uppercase;}
+
+.homelead{max-width:1140px; margin:80px auto 0 auto;}
+.homelead img{width: 100%; height: 200px; background: #CCC;}
+.homelead span{text-shadow: 1px 1px 2px #CCC; color:#222222; font-size: 24px;}
+.homelead p{padding:10px 0 6px 0; color:#222222; font-weight: 600; font-size: 22px; text-transform: uppercase;}
+.homelead .homebtn{background: darkgreen; color: #FFF; font-weight: bold; padding: 11px 19px; border-radius:3px;}
+.homelead .formhome{background: #f2f2f2; padding: 50px;}
+.homelead .formhome input{margin-bottom:10px; background: #FFF; font-size: 16px; padding: 1.0em 0.90em;}
+.homelead .formhome h3{color: #222222; font-weight: bold;}

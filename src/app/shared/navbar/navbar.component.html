@@ -20,8 +20,8 @@
          </div>
       </div>
         <div class="navbar-translate">
-            <a class="navbar-brand" [routerLink]="['/index']" placement="bottom" ngbTooltip="Designed by Invision. Coded by Creative Tim">
-                Now Ui Kit
+            <a class="navbar-brand" [routerLink]="['/']" placement="bottom" ngbTooltip="Designed by Invision. Coded by Creative Tim">
+                Home
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" (click)="sidebarToggle()">
                 <span class="navbar-toggler-bar bar1"></span>
@@ -32,15 +32,15 @@
         <div class="collapse navbar-collapse" data-nav-image="assets/img/blurred-image-1.jpg" data-color="orange">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                  <a class="nav-link" href="https://www.creative-tim.com/product/now-ui-kit-angular" target="_blank">
+                  <a class="nav-link" [routerLink]="['/about']" >
                       <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-                      <p>Download</p>
+                      <p>Sobre</p>
                   </a>
               </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://creativetimofficial.github.io/now-ui-kit-angular/documentation/tutorial" target="_blank">
+                    <a class="nav-link" [routerLink]="['/contact']">
                       <i class="now-ui-icons files_paper"></i>
-                      <p>Documentation</p>
+                      <p>Contato</p>
                     </a>
                 </li>
                 <li class="nav-item">
